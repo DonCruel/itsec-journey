@@ -1,0 +1,10 @@
+labs/**/artifacts/*
+!labs/**/artifacts/.gitkeep
+*.pcap
+*.pcapng
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
